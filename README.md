@@ -21,7 +21,7 @@ Or install it yourself as:
     $ gem install alloy
 
 ## Usage
-```
+```ruby
 require 'alloy'
 
 class HerpInterface
